@@ -32,7 +32,7 @@ Recommender System, Social Network, Data Mining
 **Visting Scholar**, <small>University of Missouri-Rolla(Rolla), December 2018 - July 2019</small>   
 <small>Advisior: [Yanjie Fu](https://www.yanjiefu.com)</small>
 
-**Student Intern**, <small>Miscrsoft Research Asia(MSRA), May 2021 - July 2021</small>
+**Student Intern**, <small>Miscrsoft Research Asia(MSRA), May 2021 - July 2021</small>    
 <small>Mentor: [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/)</small>
 
 ------
