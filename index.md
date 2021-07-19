@@ -34,6 +34,7 @@ Recommender System, Social Network, Data Mining
 
 **Student Intern**, <small>Miscrsoft Research Asia(MSRA), May 2021 - July 2021</small>
 <small>Mentor: [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/)</small>
+
 ------
 
 ## Publications
