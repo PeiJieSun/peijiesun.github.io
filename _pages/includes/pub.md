@@ -71,7 +71,7 @@ Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang
 
 - ``WWW 2023 Long`` [Intersectional Two-sided Fairness in Recommendation](https://arxiv.org/abs/2402.02816), Yifan Wang, **Peijie Sun**, Weizhi Ma, Min Zhang, et al.
 
-- ``KDD 2023 Long`` [Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction](https://dl.acm.org/doi/abs/10.1145/3580305.3599536), Yifan Wang, Peijie Sun, Min Zhang, Qinglin Jia, et al.
+- ``KDD 2023 Long`` [Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction](https://dl.acm.org/doi/abs/10.1145/3580305.3599536), Yifan Wang, **Peijie Sun**, Min Zhang, Qinglin Jia, et al.
 
 - ``SIGIR 2023 Long`` [Topic-enhanced Graph Neural Networks for Extraction-based Explainable Recommendation](https://dl.acm.org/doi/abs/10.1145/3539618.3591776), Jie Shuai, Le Wu, Kun Zhang, **Peijie Sun**, et al.
 
@@ -83,7 +83,7 @@ Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang
 
 - ``SIGIR 2022 Long`` [A review-aware graph contrastive learning framework for recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3531927), Jie Shuai, Kun Zhang, Le Wu, **Peijie Sun**, et al.
 
-- ``ACM TOIS 2021`` [An unsupervised aspect-aware recommendation model with explanation text generation](https://dl.acm.org/doi/abs/10.1145/3483611), Peijie Sun, Le Wu, Kun Zhang, Yu Su, et al.
+- ``ACM TOIS 2021`` [An unsupervised aspect-aware recommendation model with explanation text generation](https://dl.acm.org/doi/abs/10.1145/3483611), **Peijie Sun**, Le Wu, Kun Zhang, Yu Su, et al.
 
 - ``IEEE TKDE 2020`` [Diffnet++: A neural influence and interest diffusion network for social recommendation](https://ieeexplore.ieee.org/abstract/document/9311623/), Le Wu, Junwei Li, **Peijie Sun**, Richang Hong, et al.
 
