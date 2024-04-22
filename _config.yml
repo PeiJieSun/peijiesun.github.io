@@ -14,10 +14,10 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      : G-LKW1MNL6PD
 
-# SEO Related
-google_site_verification : 256786823963-9u4ep17sci3vbqorei1s7sfmoql43ri7.apps.googleusercontent.com
-bing_site_verification   : 
-baidu_site_verification  : 
+# SEO Related, help the different search engines to verify whether the domain belongs to you. You can also directly verify the ownership by the related links. 
+google_site_verification : # https://search.google.com/search-console/about
+bing_site_verification   : # https://www.bing.com/webmasters/home
+baidu_site_verification  : # https://ziyuan.baidu.com/site/index#/
 
 # Site Author
 author:
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  xiaohongshu      : #"59ee029a11be10464e3d5c9c"
+  xiaohongshu      : "59ee029a11be10464e3d5c9c"
 
 
 # Reading Files
