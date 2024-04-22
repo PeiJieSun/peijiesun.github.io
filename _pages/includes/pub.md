@@ -1,6 +1,5 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='../../images/papers/shenghao_sigir2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
