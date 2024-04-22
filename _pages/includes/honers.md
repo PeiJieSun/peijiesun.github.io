@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🎖 Fellowships and Awards
 - *2024.04* Excellent doctoral dissertation of Anhui Province (Top 1%)
 - *2022.07* The Fellowship of China Postdoctoral Science Foundation
 - *2020.12* National Scholarship for Doctoral Students in China (Undergraduate) (Top 1%)
