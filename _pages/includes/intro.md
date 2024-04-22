@@ -8,4 +8,6 @@ During my doctoral studies, I visited Missouri University of Science and Technol
 
 My research interests include recommendation algorithms, user modeling, social network modeling, and LLM-based recommendation research. I have published 20+ papers <a href='https://scholar.google.com/citations?user=VSxn2IcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FPeiJieSun%2Fpeijiesun.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as WWW, KDD, SIGIR, and AI Journals such as IEEE TKDE, IEE TMM, and ACM TOIS. 
 
+🎉 My WWW 2024 work achieved a \textbf{50.65\%} increase in online revenue on Huawei HiMedia, and an \textbf{18.43\%} uplift in traffic across Huawei-related business scenarios.
+
 My CV can be downloaded via this [link](https://github.com/PeiJieSun/peijiesun.github.io/blob/e8ff3fb307bb7aa83a9304f8a55cb1a074897ef6/assets/CV_PeijieSun.pdf).
