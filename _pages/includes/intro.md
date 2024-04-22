@@ -10,4 +10,4 @@ My research interests include recommendation algorithms, user modeling, social n
 
 🎉 My **WWW 2024 Industry Track** work achieved a **50.65\%** increase in online revenue on Huawei HiMedia, and an **18.43\%** uplift in traffic across Huawei-related business scenarios.
 
-My CV can be downloaded via this [link](https://github.com/PeiJieSun/peijiesun.github.io/blob/e8ff3fb307bb7aa83a9304f8a55cb1a074897ef6/assets/CV_PeijieSun.pdf).
+My CV can be downloaded via this [link](https://www.dropbox.com/scl/fi/stlulz6bu2enmv6tg4c3d/CV_PeijieSun.pdf?rlkey=3uaw8tbscqqj148ke7rbyb32b&st=unct51qy&dl=0).
