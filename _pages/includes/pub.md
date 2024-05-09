@@ -68,7 +68,7 @@ Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang
 
 - ``DASFAA 2024 Short`` [Common Sense Enhanced Knowledge-based Recommendation with Large Language Model](https://arxiv.org/abs/2403.18325), Shenghao Yang, Weizhi Ma, **Peijie Sun**, Min Zhang, et al.
 
-- ``WWW 2023 Long`` [Intersectional Two-sided Fairness in Recommendation](https://arxiv.org/abs/2402.02816), Yifan Wang, **Peijie Sun**, Weizhi Ma, Min Zhang, et al.
+- ``WWW 2024 Long`` [Intersectional Two-sided Fairness in Recommendation](https://arxiv.org/abs/2402.02816), Yifan Wang, **Peijie Sun**, Weizhi Ma, Min Zhang, et al.
 
 - ``KDD 2023 Long`` [Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction](https://dl.acm.org/doi/abs/10.1145/3580305.3599536), Yifan Wang, **Peijie Sun**, Min Zhang, Qinglin Jia, et al.
 
