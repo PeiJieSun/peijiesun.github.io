@@ -58,8 +58,8 @@ Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang
 </div>
 </div>
 
-
-
+- ``KDD 2024 Long`` Popularity-Aware Alignment and Contrastive for Mitigating Popularity Bias, Miaomiao Cai, Lei Chen, Yifan Wang, Haoyue Bai, **Peijie Sun**, et al.
+- ``KDD 2024 Long`` Double Correction Framework for Denoising Recommendation, Zhuangzhuang He, Yifan Wang, Yonghui Yang, **Peijie Sun**, et al.
 - ``SIGIR 2024 Resource`` [EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation](https://arxiv.org/abs/2404.01008), Shaorun Zhang, Zhiyu He, Ziyi Ye, **Peijie Sun**, et al. 
   
 - ``SIGIR 2024 Long`` [Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation](https://arxiv.org/abs/2403.20296), Hanyu Li, Weizhi Ma, **Peijie Sun**, Jiayu Li, et al. 
