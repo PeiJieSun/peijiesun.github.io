@@ -30,6 +30,9 @@ Shenghao Yang, Weizhi Ma, **Peijie Sun**, Qingyao Ai, et al.
 [Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering](https://ieeexplore.ieee.org/abstract/document/10255367) \\
 **Peijie Sun**, Le Wu, Kun Zhang, Xiangzhi Chen, Meng Wang. 
 
+[PaperWithCode](https://paperswithcode.com/sota/collaborative-filtering-on-yelp2018?p=neighborhood-enhanced-supervised-contrastive)
+[Code](https://github.com/PeiJieSun/NESCL)
+
 - **Academic Impact**: Our proposed algorithm outperforms the best algorithm on the candidate matching leaderboard on BARS, significantly on [Yelp](https://openbenchmark.github.io/BARS/Matching/leaderboard/yelp18_m1.html) and [Gowalla](https://openbenchmark.github.io/BARS/Matching/leaderboard/gowalla_m1.html) datasets. Our proposed nearest neighbor-enhanced supervised contrastive module significantly outperforms the baseline model. On three real-world datasets, Yelp2018, Gowalla, and Amazon-Book, our model surpasses the original SGL by 10.09%, 7.09%, and 35.36% on NDCG@20, respectively.
 
 </div>
