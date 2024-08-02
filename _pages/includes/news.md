@@ -1,4 +1,6 @@
 # 🔥 News
+- *2024.07*: 🎉 Two long paper is accepted by RecSys 2024 Reproducibility Track
+- *2024.07*: 🎉 One long paper is accepted by RecSys 2024
 - *2024.05*: 🎉 Two long papers are accepted by KDD 2024
 - *2024.03*: 🎉 Two long papers are accepted by SIGIR 2024, and one resource paper is accepted by SIGIR 2024
 - *2024.03*: 🎉 One long paper is accepted by DASFAA 2024, and one short paper is accepted by DASFAA 2024
