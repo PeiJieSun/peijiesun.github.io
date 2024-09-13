@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.08*: 🎉 One paper is accepted by TOIS 2024.
 - *2024.07*: 🎉 Two long papers are accepted by RecSys 2024 Reproducibility Track
 - *2024.07*: 🎉 One long paper is accepted by RecSys 2024
 - *2024.05*: 🎉 Two long papers are accepted by KDD 2024
