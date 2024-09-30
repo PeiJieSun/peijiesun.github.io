@@ -1,4 +1,6 @@
-I am currently a postdoctoral researcher at the Department of Computer Science and Technology, Tsinghua University<img src='../../images/tsinghua.png' style='width: 1em;'>, in Beijing, China, under the supervision of Professor [Min Zhang (张敏)](https://scholar.google.com/citations?hl=zh-CN&user=0HtCYQEAAAAJ).
+I will join the School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT) in October 2024.
+
+I completed my postdoctoral researcher job from July 2022 to September 2024 at the Department of Computer Science and Technology, Tsinghua University<img src='../../images/tsinghua.png' style='width: 1em;'>, in Beijing, China, under the supervision of Professor [Min Zhang (张敏)](https://scholar.google.com/citations?hl=zh-CN&user=0HtCYQEAAAAJ).
 
 I am now working on recommendation algorithms, user modeling, social network modeling, and LLM-based recommendation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [sun.hfut@gmail.com](mailto:sun.hfut@gmail.com).
 
