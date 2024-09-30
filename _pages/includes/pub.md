@@ -61,6 +61,8 @@ Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang
 </div>
 </div>
 
+- ``EMNLP 2024`` [A User-Centric Benchmark for Evaluating Large Language Models](https://arxiv.org/abs/2404.13940), Jiayin Wang, Fengran Mo, Weizhi Ma, **Peijie Sun**, Min Zhang, Jian-Yun Nie. 
+
 - ``TOIS 2024`` [Feature-Enhanced Neural Collaborative Reasoning for Explainable Recommendation](https://dl.acm.org/doi/pdf/10.1145/3690381), Xiaoyu Zhang, Shaoyun Shi, Yishan Li, Weizhi Ma, **Peijie Sun**, et al.
 
 - ``KDD 2024 Long`` [Popularity-Aware Alignment and Contrastive for Mitigating Popularity Bias](https://arxiv.org/pdf/2405.20718), Miaomiao Cai, Lei Chen, Yifan Wang, Haoyue Bai, **Peijie Sun**, et al.
