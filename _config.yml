@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peijie Sun (孙培杰)"
-description              : "PostDoc in DCST, Tsinghua University. Focusing on recommender system, user modeling, social network, and Large language model application"
+description              : "Focusing on recommender system, user modeling, social network, and Large language model application"
 repository               : "PeiJieSun/peijiesun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  : # https://ziyuan.baidu.com/site/index#/
 author:
   name             : "Peijie Sun (孙培杰)"
   avatar           : "images/peijie-share.jpg"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Nanjing University of Posts and Telecommunications"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VSxn2IcAAAAJ"
