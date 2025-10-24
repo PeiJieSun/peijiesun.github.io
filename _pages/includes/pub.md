@@ -109,14 +109,20 @@ Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang
 
 24. ``SIGIR 2022`` [A review-aware graph contrastive learning framework for recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3531927), Jie Shuai, Kun Zhang, Le Wu, **Peijie Sun**, et al.
 
-25. ``ACM TOIS 2021`` [An unsupervised aspect-aware recommendation model with explanation text generation](https://dl.acm.org/doi/abs/10.1145/3483611), **Peijie Sun**, Le Wu, Kun Zhang, Yu Su, et al.
+25. ``CAIC 2022`` Self-supervised cross domain social recommendation, Suchang Luo, Yonghui Yang, Kun Zhang, **Peijie Sun**, et al.
 
-26. ``IEEE TKDE 2020`` [Diffnet++: A neural influence and interest diffusion network for social recommendation](https://ieeexplore.ieee.org/abstract/document/9311623/), Le Wu, Junwei Li, **Peijie Sun**, Richang Hong, et al.
+26. ``ACM TOIS 2021`` [An unsupervised aspect-aware recommendation model with explanation text generation](https://dl.acm.org/doi/abs/10.1145/3483611), **Peijie Sun**, Le Wu, Kun Zhang, Yu Su, et al.
 
-27. ``WWW 2020`` [Dual learning for explainable recommendation: Towards unifying user preference prediction and review generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380164), **Peijie Sun**, Le Wu, Kun Zhang, Yanjie Fu, et al.
+27. ``CCIR 2021`` Meta-learned ID Embeddings for Online Inductive Recommendation, Jingyu Peng, Le Wu, **Peijie Sun**, Meng Wang.
 
-28. ``SIGIR 2019`` [A neural influence diffusion model for social recommendation](https://dl.acm.org/doi/abs/10.1145/3331184.3331214), Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, et al.
+28. ``IEEE TKDE 2020`` [Diffnet++: A neural influence and interest diffusion network for social recommendation](https://ieeexplore.ieee.org/abstract/document/9311623/), Le Wu, Junwei Li, **Peijie Sun**, Richang Hong, et al.
 
-29. ``IEEE Trans. SMC 2018`` [Collaborative neural social recommendation](https://ieeexplore.ieee.org/abstract/document/8514809/), Le Wu, **Peijie Sun**, Richang Hong, Yong Ge, et al.
+29. ``WWW 2020`` [Dual learning for explainable recommendation: Towards unifying user preference prediction and review generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380164), **Peijie Sun**, Le Wu, Kun Zhang, Yanjie Fu, et al.
 
-30. ``SIGIR 2018`` [Attentive recurrent social recommendation](https://dl.acm.org/doi/abs/10.1145/3209978.3210023), **Peijie Sun,** Le Wu, Meng Wang. 
+30. ``SIGIR 2019`` [A neural influence diffusion model for social recommendation](https://dl.acm.org/doi/abs/10.1145/3331184.3331214), Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, et al.
+
+31. ``IEEE Trans. SMC 2018`` [Collaborative neural social recommendation](https://ieeexplore.ieee.org/abstract/document/8514809/), Le Wu, **Peijie Sun**, Richang Hong, Yong Ge, et al.
+
+32. ``SIGIR 2018`` [Attentive recurrent social recommendation](https://dl.acm.org/doi/abs/10.1145/3209978.3210023), **Peijie Sun,** Le Wu, Meng Wang.
+
+33. ``PCM 2018`` Contextual attention model for social recommendation, Hongfeng Bao, Le Wu, **Peijie Sun**. 
