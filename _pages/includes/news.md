@@ -1,10 +1,10 @@
 # 🔥 News
-- *2025.12*: 🎉 One paper wins the **Best Student Paper Award** at ICKG 2025!
-- *2025.10*: 🎉 One paper wins the **Best Student Paper Award** (最佳学生论文奖) at CCML 2025!
-- *2025.09*: 🎉 One paper is accepted by WSDM 2026!
+- *2025.10*: 🎉 One paper is accepted by WSDM 2026!
+- *2025.09*: 🎉 One paper wins the **Best Student Paper Award** at ICKG 2025!
+- *2025.08*: 🎉 One paper wins the **Best Student Paper Award** (最佳学生论文奖) at CCML 2025!
 - *2025.07*: 🎉 One paper is accepted by ACM TOIS!
-- *2025.05*: 🎉 One paper is accepted by SIGIR 2025!
-- *2025.01*: 🎉 One paper is accepted by 计算机工程与应用!
+- *2025.04*: 🎉 One paper is accepted by SIGIR 2025!
+- *2025.03*: 🎉 One paper is accepted by 计算机工程与应用!
 - *2024.10*: 🎓 I joined the School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT) as an Associate Professor!
 - *2024.09*: 🎉 One long paper is accepted by EMNLP 2024, with **Best Resource Award**!
 - *2024.08*: 🎉 One paper is accepted by ACM TOIS 2024.
