@@ -40,15 +40,28 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* =====================================================
+   Modern Academic Homepage Styles
+   ===================================================== */
+
 .paper-box {
     display: flex;
     justify-content: left;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    border-bottom: none;
+    padding: 1.8em 1.5em;
+    margin: 1em 0;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.06);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+    &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    }
 
     .paper-box-image{
         justify-content: center;
@@ -57,8 +70,13 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
             object-fit: cover;
+            border-radius: 8px;
+            transition: transform 0.3s ease;
+        }
+        &:hover img {
+            transform: scale(1.02);
         }
     }
     
@@ -81,10 +99,7 @@
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
 $scroll_offset : 2em;
@@ -98,12 +113,223 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0.3em 0.9em;
     position: absolute;
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    background: linear-gradient(135deg, #1a5276 0%, #2980b9 100%);
+    font-size: .75em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 2px 8px rgba(26, 82, 118, 0.3);
+}
+
+/* Research stats bar */
+.research-stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    margin: 1.5em 0 2em;
+    padding: 1.5em;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border-radius: 12px;
+    border-left: 4px solid #1a5276;
+
+    .stat-item {
+        flex: 1;
+        min-width: 100px;
+        text-align: center;
+        padding: 0.8em 0.5em;
+
+        .stat-number {
+            display: block;
+            font-size: 1.8em;
+            font-weight: 700;
+            color: #1a5276;
+            line-height: 1.2;
+        }
+
+        .stat-label {
+            display: block;
+            font-size: 0.8em;
+            color: #6c757d;
+            margin-top: 0.3em;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+    }
+}
+
+/* Publication list styling */
+.page__content ol {
+    counter-reset: pub-counter;
+    list-style: none;
+    padding-left: 0;
+
+    > li {
+        counter-increment: pub-counter;
+        position: relative;
+        padding: 0.8em 1em 0.8em 1em;
+        margin: 0.4em 0;
+        border-radius: 8px;
+        transition: background-color 0.2s ease, transform 0.2s ease;
+        border-left: 3px solid transparent;
+
+        &:hover {
+            background-color: #f8f9fa;
+            border-left-color: #2980b9;
+            transform: translateX(3px);
+        }
+
+        code {
+            background: linear-gradient(135deg, #1a5276, #2980b9);
+            color: white;
+            padding: 0.15em 0.6em;
+            border-radius: 4px;
+            font-size: 0.82em;
+            font-weight: 600;
+            font-family: inherit;
+            letter-spacing: 0.01em;
+            white-space: nowrap;
+        }
+    }
+}
+
+/* Section headers */
+.page__content h1 {
+    font-weight: 700;
+    font-size: 1.6em;
+    color: #2c3e50;
+    margin-top: 2em;
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid #e9ecef;
+    position: relative;
+
+    &::after {
+        content: '';
+        position: absolute;
+        bottom: -2px;
+        left: 0;
+        width: 60px;
+        height: 2px;
+        background: linear-gradient(90deg, #1a5276, #2980b9);
+    }
+}
+
+/* News timeline */
+.page__content > ul {
+    list-style: none;
+    padding-left: 0;
+
+    > li {
+        position: relative;
+        padding: 0.6em 0 0.6em 1.5em;
+        border-left: 2px solid #e9ecef;
+        transition: border-color 0.2s ease;
+
+        &::before {
+            content: '';
+            position: absolute;
+            left: -5px;
+            top: 1.1em;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #2980b9;
+            border: 2px solid #fff;
+            box-shadow: 0 0 0 2px #e9ecef;
+            transition: all 0.2s ease;
+        }
+
+        &:hover {
+            border-left-color: #2980b9;
+            &::before {
+                background: #1a5276;
+                box-shadow: 0 0 0 2px #2980b9;
+                transform: scale(1.2);
+            }
+        }
+
+        em {
+            color: #6c757d;
+            font-weight: 500;
+        }
+    }
+}
+
+/* Profile box styling */
+.profile_box {
+    .author__avatar {
+        img {
+            border-radius: 50%;
+            border: 3px solid #e9ecef;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+            &:hover {
+                transform: scale(1.05);
+                box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15);
+            }
+        }
+    }
+
+    .author__name {
+        font-weight: 700;
+        font-size: 1.15em;
+        color: #2c3e50;
+    }
+
+    .author__bio {
+        color: #6c757d;
+        font-size: 0.9em;
+    }
+
+    .author__urls {
+        li {
+            a {
+                color: #495057;
+                transition: color 0.2s ease, transform 0.2s ease;
+                text-decoration: none !important;
+
+                &:hover {
+                    color: #1a5276;
+                }
+            }
+        }
+    }
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Better link styling in content */
+.page__content a {
+    color: #1a5276;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease, color 0.2s ease;
+
+    &:hover {
+        color: #2980b9;
+        border-bottom-color: #2980b9;
+        text-decoration: none;
+    }
+}
+
+/* Award badges */
+.page__content strong {
+    &:first-child {
+        color: #2c3e50;
+    }
+}
+
+/* Selection color */
+::selection {
+    background: rgba(41, 128, 185, 0.2);
+    color: #1a5276;
 }

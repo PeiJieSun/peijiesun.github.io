@@ -6,8 +6,15 @@ I obtained my bachelor's, master's, and doctoral degrees from the School of [Com
 
 During my doctoral studies, I visited Missouri University of Science and Technology, Rolla Campus, from December 2018 to July 2019, where I received guidance from Professor [Yanjie Fu (傅衍杰)](https://scholar.google.com/citations?hl=zh-CN&user=OSArex4AAAAJ). Additionally, I visited the Social Computing Group at Microsoft Research Asia from May 2021 to July 2021, under the supervision of Professor [Fangzhao Wu (吴方照)](https://scholar.google.com/citations?hl=zh-CN&user=0SZVO0sAAAAJ).
 
-My research interests include recommendation algorithms, user modeling, social network modeling, and LLM-based recommendation research. I have published 35+ papers <a href='https://scholar.google.com/citations?user=VSxn2IcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FPeiJieSun%2Fpeijiesun.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as WWW, KDD, SIGIR, EMNLP, RecSys, and AI Journals such as IEEE TKDE, IEEE TMM, and ACM TOIS. 
+My research interests include recommendation algorithms, user modeling, social network modeling, and LLM-based recommendation research. I have published 40+ papers <a href='https://scholar.google.com/citations?user=VSxn2IcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FPeiJieSun%2Fpeijiesun.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as AAAI, WWW, KDD, SIGIR, EMNLP, RecSys, and AI journals such as IEEE TKDE, IEEE TMM, and ACM TOIS. 
 
 🎉 My **WWW 2024 Industry Track** work achieved a **50.65%** increase in online revenue on Huawei HiMedia, and an **18.43%** uplift in traffic across Huawei-related business scenarios.
+
+<div class='research-stats'>
+  <div class='stat-item'><span class='stat-number'>40+</span><span class='stat-label'>Publications</span></div>
+  <div class='stat-item'><span class='stat-number'>2,650+</span><span class='stat-label'>Citations</span></div>
+  <div class='stat-item'><span class='stat-number'>20</span><span class='stat-label'>h-index</span></div>
+  <div class='stat-item'><span class='stat-number'>26</span><span class='stat-label'>CCF-A Papers</span></div>
+</div>
 
 My CV can be downloaded via this [link](https://www.dropbox.com/scl/fi/stlulz6bu2enmv6tg4c3d/CV_PeijieSun.pdf?rlkey=3uaw8tbscqqj148ke7rbyb32b&st=unct51qy&dl=0). The Chinese Version can be downloaded via another [link](https://www.dropbox.com/scl/fi/2y76koq2929bq5yjfstet/.pdf?rlkey=ejedj7y20zoml9mjnzrcqnu1p&st=eqy5brpf&dl=0).

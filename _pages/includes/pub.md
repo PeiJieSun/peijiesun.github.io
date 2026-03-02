@@ -61,68 +61,74 @@ Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang
 </div>
 </div>
 
-1. ``WSDM 2026`` Hyper-Adaptive Dual-Stage Prompting for Hallucination-Aware Explainable Recommendation, Zheng Nie, **Peijie Sun**. 
+1. ``WWW 2026`` PRISM: Personalized Recommendation via Information Synergy Module, Yutong Li, Xinyi Zhang, **Peijie Sun**, Letian Sha, Zhongxuan Han.
 
-2. ``ACM TOIS 2025`` User Immersion-aware Short Video Recommendation, Zhiyu He, Shaorun Zhang, Weizhi Ma, Jiayu Li, **Peijie Sun**, et al.
+2. ``AAAI 2026`` Differentiated Directional Intervention: A Framework for Evading LLM Safety Alignment, Peng Zhang, **Peijie Sun**.
 
-3. ``SIGIR 2025`` CD-CDR: Conditional Diffusion-based Item Generation for Cross-Domain Recommendation, Hanyu Li, Jiayu Li, Weizhi Ma, **Peijie Sun**, et al.
+3. ``AAAI 2026`` Speech Recognition Model Improves Text-to-Speech Synthesis using Fine-Grained Reward, Guansu Wang, **Peijie Sun**.
 
-4. ``CCML 2025`` 协同信号增强的大模型用户画像生成与推荐, 张敏, 郭世圆, 汪佳茵, **孙培杰**. **最佳学生论文奖** 🏆
+4. ``WSDM 2026`` Hyper-Adaptive Dual-Stage Prompting for Hallucination-Aware Explainable Recommendation, Zheng Nie, **Peijie Sun**. 
 
-5. ``ICKG 2025`` Preference-aware Intent Fusion in Multi-Behavior Recommendation, Shuqing Sun, Dan Guo, **Peijie Sun**, Ruijie Liu. **Best Student Paper Award** 🏆
+5. ``ACM TOIS 2025`` User Immersion-aware Short Video Recommendation, Zhiyu He, Shaorun Zhang, Weizhi Ma, Jiayu Li, **Peijie Sun**, et al.
 
-6. ``计算机工程与应用 2025`` 基于大语言模型的跨语言会话式商品推荐设计与实现, 李奕杉, **孙培杰**, 张敏.
+6. ``SIGIR 2025`` CD-CDR: Conditional Diffusion-based Item Generation for Cross-Domain Recommendation, Hanyu Li, Jiayu Li, Weizhi Ma, **Peijie Sun**, et al.
 
-7. ``EMNLP 2024`` [A User-Centric Benchmark for Evaluating Large Language Models](https://arxiv.org/abs/2404.13940), Jiayin Wang, Fengran Mo, Weizhi Ma, **Peijie Sun**, Min Zhang, Jian-Yun Nie. **Best Resource Award** 🏆 
+7. ``CCML 2025`` 协同信号增强的大模型用户画像生成与推荐, 张敏, 郭世圆, 汪佳茵, **孙培杰**. **最佳学生论文奖** 🏆
 
-8. ``RecSys 2024`` [Large Language Models as Evaluators for Recommendation Explanations](https://dl.acm.org/doi/10.1145/3640457.3691708), Xiaoyu Zhang, Yishan Li, Jiayin Wang, Bowen Sun, Weizhi Ma, **Peijie Sun**, Min Zhang. 
+8. ``ICKG 2025`` Preference-aware Intent Fusion in Multi-Behavior Recommendation, Shuqing Sun, Dan Guo, **Peijie Sun**, Ruijie Liu. **Best Student Paper Award** 🏆
 
-9. ``RecSys 2024`` [ReChorus2.0: A Modular and Task-Flexible Recommendation Library](https://dl.acm.org/doi/10.1145/3640457.3691702), Jiayu Li, Hanyu Li, Zhiyu He, Weizhi Ma, **Peijie Sun**, Min Zhang, Shaoping Ma. 
+9. ``计算机工程与应用 2025`` 基于大语言模型的跨语言会话式商品推荐设计与实现, 李奕杉, **孙培杰**, 张敏.
 
-10. ``RecSys 2024`` [Right tool, right job: Recommendation for repeat and exploration consumption in food delivery](https://dl.acm.org/doi/10.1145/3640457.3688065), Jiayu Li, Aixin Sun, Weizhi Ma, **Peijie Sun**, Min Zhang.
+10. ``EMNLP 2024`` [A User-Centric Benchmark for Evaluating Large Language Models](https://arxiv.org/abs/2404.13940), Jiayin Wang, Fengran Mo, Weizhi Ma, **Peijie Sun**, Min Zhang, Jian-Yun Nie. **Best Resource Award** 🏆 
 
-11. ``TOIS 2024`` [Feature-Enhanced Neural Collaborative Reasoning for Explainable Recommendation](https://dl.acm.org/doi/pdf/10.1145/3690381), Xiaoyu Zhang, Shaoyun Shi, Yishan Li, Weizhi Ma, **Peijie Sun**, et al.
+11. ``RecSys 2024`` [Large Language Models as Evaluators for Recommendation Explanations](https://dl.acm.org/doi/10.1145/3640457.3691708), Xiaoyu Zhang, Yishan Li, Jiayin Wang, Bowen Sun, Weizhi Ma, **Peijie Sun**, Min Zhang. 
 
-12. ``KDD 2024`` [Popularity-Aware Alignment and Contrastive for Mitigating Popularity Bias](https://arxiv.org/pdf/2405.20718), Miaomiao Cai, Lei Chen, Yifan Wang, Haoyue Bai, **Peijie Sun**, et al.
+12. ``RecSys 2024`` [ReChorus2.0: A Modular and Task-Flexible Recommendation Library](https://dl.acm.org/doi/10.1145/3640457.3691702), Jiayu Li, Hanyu Li, Zhiyu He, Weizhi Ma, **Peijie Sun**, Min Zhang, Shaoping Ma. 
 
-13. ``KDD 2024`` [Double Correction Framework for Denoising Recommendation](https://arxiv.org/abs/2405.11272), Zhuangzhuang He, Yifan Wang, Yonghui Yang, **Peijie Sun**, et al.
+13. ``RecSys 2024`` [Right tool, right job: Recommendation for repeat and exploration consumption in food delivery](https://dl.acm.org/doi/10.1145/3640457.3688065), Jiayu Li, Aixin Sun, Weizhi Ma, **Peijie Sun**, Min Zhang.
 
-14. ``SIGIR 2024 Resource`` [EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation](https://arxiv.org/abs/2404.01008), Shaorun Zhang, Zhiyu He, Ziyi Ye, **Peijie Sun**, et al. 
+14. ``TOIS 2024`` [Feature-Enhanced Neural Collaborative Reasoning for Explainable Recommendation](https://dl.acm.org/doi/pdf/10.1145/3690381), Xiaoyu Zhang, Shaoyun Shi, Yishan Li, Weizhi Ma, **Peijie Sun**, et al.
+
+15. ``KDD 2024`` [Popularity-Aware Alignment and Contrastive for Mitigating Popularity Bias](https://arxiv.org/pdf/2405.20718), Miaomiao Cai, Lei Chen, Yifan Wang, Haoyue Bai, **Peijie Sun**, et al.
+
+16. ``KDD 2024`` [Double Correction Framework for Denoising Recommendation](https://arxiv.org/abs/2405.11272), Zhuangzhuang He, Yifan Wang, Yonghui Yang, **Peijie Sun**, et al.
+
+17. ``SIGIR 2024 Resource`` [EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation](https://arxiv.org/abs/2404.01008), Shaorun Zhang, Zhiyu He, Ziyi Ye, **Peijie Sun**, et al. 
   
-15. ``SIGIR 2024`` [Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation](https://arxiv.org/abs/2403.20296), Hanyu Li, Weizhi Ma, **Peijie Sun**, Jiayu Li, et al. 
+18. ``SIGIR 2024`` [Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation](https://arxiv.org/abs/2403.20296), Hanyu Li, Weizhi Ma, **Peijie Sun**, Jiayu Li, et al. 
 
-16. ``DASFAA 2024`` [A Situation-aware Enhancer for Personalized Recommendation](https://arxiv.org/abs/2403.18317), Jiayu Li, **Peijie Sun**, Chumeng Jiang, Weizhi Ma, Qingyao Ai, Min Zhang. 
+19. ``DASFAA 2024`` [A Situation-aware Enhancer for Personalized Recommendation](https://arxiv.org/abs/2403.18317), Jiayu Li, **Peijie Sun**, Chumeng Jiang, Weizhi Ma, Qingyao Ai, Min Zhang. 
 
-17. ``DASFAA 2024`` [Common Sense Enhanced Knowledge-based Recommendation with Large Language Model](https://arxiv.org/abs/2403.18325), Shenghao Yang, Weizhi Ma, **Peijie Sun**, Min Zhang, et al.
+20. ``DASFAA 2024`` [Common Sense Enhanced Knowledge-based Recommendation with Large Language Model](https://arxiv.org/abs/2403.18325), Shenghao Yang, Weizhi Ma, **Peijie Sun**, Min Zhang, et al.
 
-18. ``WWW 2024`` [Intersectional Two-sided Fairness in Recommendation](https://arxiv.org/abs/2402.02816), Yifan Wang, **Peijie Sun**, Weizhi Ma, Min Zhang, et al.
+21. ``WWW 2024`` [Intersectional Two-sided Fairness in Recommendation](https://arxiv.org/abs/2402.02816), Yifan Wang, **Peijie Sun**, Weizhi Ma, Min Zhang, et al.
 
-19. ``KDD 2023`` [Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction](https://dl.acm.org/doi/abs/10.1145/3580305.3599536), Yifan Wang, **Peijie Sun**, Min Zhang, Qinglin Jia, et al.
+22. ``KDD 2023`` [Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction](https://dl.acm.org/doi/abs/10.1145/3580305.3599536), Yifan Wang, **Peijie Sun**, Min Zhang, Qinglin Jia, et al.
 
-20. ``SIGIR 2023`` [Topic-enhanced Graph Neural Networks for Extraction-based Explainable Recommendation](https://dl.acm.org/doi/abs/10.1145/3539618.3591776), Jie Shuai, Le Wu, Kun Zhang, **Peijie Sun**, et al.
+23. ``SIGIR 2023`` [Topic-enhanced Graph Neural Networks for Extraction-based Explainable Recommendation](https://dl.acm.org/doi/abs/10.1145/3539618.3591776), Jie Shuai, Le Wu, Kun Zhang, **Peijie Sun**, et al.
 
-21. ``SIGIR 2023`` [Intent-aware Ranking Ensemble for Personalized Recommendation](https://dl.acm.org/doi/abs/10.1145/3539618.3591702), Jiayu Li, **Peijie Sun**, Zhefan Wang, Weizhi Ma, et al.
+24. ``SIGIR 2023`` [Intent-aware Ranking Ensemble for Personalized Recommendation](https://dl.acm.org/doi/abs/10.1145/3539618.3591702), Jiayu Li, **Peijie Sun**, Zhefan Wang, Weizhi Ma, et al.
 
-22. ``IEEE TMM 2023`` [Multimodal graph contrastive learning for multimedia-based recommendation](https://ieeexplore.ieee.org/abstract/document/10075502/), Kang Liu, Feng Xue, Dan Guo, **Peijie Sun**, et al.
+25. ``IEEE TMM 2023`` [Multimodal graph contrastive learning for multimedia-based recommendation](https://ieeexplore.ieee.org/abstract/document/10075502/), Kang Liu, Feng Xue, Dan Guo, **Peijie Sun**, et al.
 
-23. ``SIGIR 2022`` [ProFairRec: Provider fairness-aware news recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3532046), Tao Qi, Fangzhao Wu, Chuhan Wu, **Peijie Sun**, et al.
+26. ``SIGIR 2022`` [ProFairRec: Provider fairness-aware news recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3532046), Tao Qi, Fangzhao Wu, Chuhan Wu, **Peijie Sun**, et al.
 
-24. ``SIGIR 2022`` [A review-aware graph contrastive learning framework for recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3531927), Jie Shuai, Kun Zhang, Le Wu, **Peijie Sun**, et al.
+27. ``SIGIR 2022`` [A review-aware graph contrastive learning framework for recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3531927), Jie Shuai, Kun Zhang, Le Wu, **Peijie Sun**, et al.
 
-25. ``CAIC 2022`` Self-supervised cross domain social recommendation, Suchang Luo, Yonghui Yang, Kun Zhang, **Peijie Sun**, et al.
+28. ``CAIC 2022`` Self-supervised cross domain social recommendation, Suchang Luo, Yonghui Yang, Kun Zhang, **Peijie Sun**, et al.
 
-26. ``ACM TOIS 2021`` [An unsupervised aspect-aware recommendation model with explanation text generation](https://dl.acm.org/doi/abs/10.1145/3483611), **Peijie Sun**, Le Wu, Kun Zhang, Yu Su, et al.
+29. ``ACM TOIS 2021`` [An unsupervised aspect-aware recommendation model with explanation text generation](https://dl.acm.org/doi/abs/10.1145/3483611), **Peijie Sun**, Le Wu, Kun Zhang, Yu Su, et al.
 
-27. ``CCIR 2021`` Meta-learned ID Embeddings for Online Inductive Recommendation, Jingyu Peng, Le Wu, **Peijie Sun**, Meng Wang.
+30. ``CCIR 2021`` Meta-learned ID Embeddings for Online Inductive Recommendation, Jingyu Peng, Le Wu, **Peijie Sun**, Meng Wang.
 
-28. ``IEEE TKDE 2020`` [Diffnet++: A neural influence and interest diffusion network for social recommendation](https://ieeexplore.ieee.org/abstract/document/9311623/), Le Wu, Junwei Li, **Peijie Sun**, Richang Hong, et al.
+31. ``IEEE TKDE 2020`` [Diffnet++: A neural influence and interest diffusion network for social recommendation](https://ieeexplore.ieee.org/abstract/document/9311623/), Le Wu, Junwei Li, **Peijie Sun**, Richang Hong, et al.
 
-29. ``WWW 2020`` [Dual learning for explainable recommendation: Towards unifying user preference prediction and review generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380164), **Peijie Sun**, Le Wu, Kun Zhang, Yanjie Fu, et al.
+32. ``WWW 2020`` [Dual learning for explainable recommendation: Towards unifying user preference prediction and review generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380164), **Peijie Sun**, Le Wu, Kun Zhang, Yanjie Fu, et al.
 
-30. ``SIGIR 2019`` [A neural influence diffusion model for social recommendation](https://dl.acm.org/doi/abs/10.1145/3331184.3331214), Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, et al.
+33. ``SIGIR 2019`` [A neural influence diffusion model for social recommendation](https://dl.acm.org/doi/abs/10.1145/3331184.3331214), Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, et al.
 
-31. ``IEEE Trans. SMC 2018`` [Collaborative neural social recommendation](https://ieeexplore.ieee.org/abstract/document/8514809/), Le Wu, **Peijie Sun**, Richang Hong, Yong Ge, et al.
+34. ``IEEE Trans. SMC 2018`` [Collaborative neural social recommendation](https://ieeexplore.ieee.org/abstract/document/8514809/), Le Wu, **Peijie Sun**, Richang Hong, Yong Ge, et al.
 
-32. ``SIGIR 2018`` [Attentive recurrent social recommendation](https://dl.acm.org/doi/abs/10.1145/3209978.3210023), **Peijie Sun,** Le Wu, Meng Wang.
+35. ``SIGIR 2018`` [Attentive recurrent social recommendation](https://dl.acm.org/doi/abs/10.1145/3209978.3210023), **Peijie Sun,** Le Wu, Meng Wang.
 
-33. ``PCM 2018`` Contextual attention model for social recommendation, Hongfeng Bao, Le Wu, **Peijie Sun**. 
+36. ``PCM 2018`` Contextual attention model for social recommendation, Hongfeng Bao, Le Wu, **Peijie Sun**. 

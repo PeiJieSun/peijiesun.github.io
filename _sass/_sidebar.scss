@@ -82,8 +82,6 @@
   display: table-cell;
   vertical-align: top;
   width: 75px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -95,10 +93,17 @@
     max-width: 175px;
     min-width: 75px;
     border-radius: 50%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 4px;
+      border: 2px solid $border-color;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    }
+
+    &:hover {
+      transform: scale(1.03);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
     }
   }
 }
@@ -246,9 +251,12 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    transition: color 0.2s ease, padding-left 0.2s ease;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      color: #1a5276;
+      padding-left: 3px;
     }
   }
 }

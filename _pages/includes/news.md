@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.01*: 🎉 One paper is accepted by WWW 2026!
+- *2025.12*: 🎉 Two papers are accepted by AAAI 2026!
 - *2025.10*: 🎉 One paper is accepted by WSDM 2026!
 - *2025.09*: 🎉 One paper wins the **Best Student Paper Award** at ICKG 2025!
 - *2025.08*: 🎉 One paper wins the **Best Student Paper Award** (最佳学生论文奖) at CCML 2025!

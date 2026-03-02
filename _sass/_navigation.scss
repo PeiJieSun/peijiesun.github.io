@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: transparent;
 
   a {
     display: block;
@@ -183,9 +183,26 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    position: relative;
+    transition: color 0.2s ease;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: linear-gradient(90deg, #1a5276, #2980b9);
+      transition: width 0.3s ease;
+    }
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #1a5276;
+
+      &::after {
+        width: 100%;
+      }
     }
   }
 
