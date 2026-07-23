@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.07*: 🎉 I was invited to serve as an Editorial Board Member of *Humanities and Social Sciences Communications*!
 - *2026.01*: 🎉 One paper is accepted by WWW 2026!
 - *2025.12*: 🎉 Two papers are accepted by AAAI 2026!
 - *2025.10*: 🎉 One paper is accepted by WSDM 2026!

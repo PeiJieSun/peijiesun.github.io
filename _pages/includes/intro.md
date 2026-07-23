@@ -1,5 +1,7 @@
 I joined the School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT) since October 2024. I am now working on recommendation algorithms, user modeling, social network modeling, and LLM-based recommendation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [sun.hfut@gmail.com](mailto:sun.hfut@gmail.com).
 
+I have been invited to serve as an Editorial Board Member of *Humanities and Social Sciences Communications*.
+
 I completed my postdoctoral researcher job from July 2022 to September 2024 at the Department of Computer Science and Technology, Tsinghua University<img src='../../images/tsinghua.png' style='width: 1em;'>, in Beijing, China, under the supervision of Professor [Min Zhang (张敏)](https://scholar.google.com/citations?hl=zh-CN&user=0HtCYQEAAAAJ).
 
 I obtained my bachelor's, master's, and doctoral degrees from the School of [Computer Science and Information Engineering, Hefei University of Technology](https://ci.hfut.edu.cn/). During my master's and doctoral studies, I was guided by Meng Wang [Meng Wang (汪萌)](https://scholar.google.com/citations?user=rHagaaIAAAAJ) and [Le Wu (吴乐)](https://scholar.google.com/citations?user=4EzlnxwAAAAJ). 
