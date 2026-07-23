@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.07*: 🏆 Recognized as an **Outstanding Senior Program Committee (SPC) Member** at SIGIR 2026.
 - *2026.07*: 🏆 I was recognized as a **Gold Reviewer** for ICML 2026 and received complimentary conference registration.
 - *2026.07*: 🎉 I was invited to serve as an Editorial Board Member of *Humanities and Social Sciences Communications*!
 - *2026.01*: 🎉 One paper is accepted by WWW 2026!
