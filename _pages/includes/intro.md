@@ -14,8 +14,8 @@ My research interests include recommendation algorithms, user modeling, social n
 
 <div class='research-stats'>
   <div class='stat-item'><span class='stat-number'>40+</span><span class='stat-label'>Publications</span></div>
-  <div class='stat-item'><span class='stat-number'>2,650+</span><span class='stat-label'>Citations</span></div>
-  <div class='stat-item'><span class='stat-number'>20</span><span class='stat-label'>h-index</span></div>
+  <div class='stat-item'><span class='stat-number'>2,994+</span><span class='stat-label'>Citations</span></div>
+  <div class='stat-item'><span class='stat-number'>21</span><span class='stat-label'>h-index</span></div>
   <div class='stat-item'><span class='stat-number'>26</span><span class='stat-label'>CCF-A Papers</span></div>
 </div>
 
